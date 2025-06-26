@@ -7,7 +7,7 @@
 > **Supervisor:** Julia Stateri  
 > **Course/Institution:** Software Engineering and Computer Engineering, Instituto de Tecnologia e Liderança
 > 
-> **Date:** April 11th, 2025
+> **Date:** June 26th, 2025
 
 ---
 
@@ -17,19 +17,21 @@ Game-Based Learning, as an active learning methodology, is believed to hold sign
 
 **General Objective:**
 
-The general objective of this work is to study the influence of pedagogical approaches based on the Game-Based Learning methodology on the learning of introductory programming.
+The general objective of this work is to study the influence of pedagogical approaches based on the Game-Based Learning methodology on the learning of computational thinking.
 
 **Specific Objectives:**
 
-- Identify the existing game-based approaches for teaching programming.
+- Identify the existing game-based approaches for teaching computational thinking.
 
-- Identify trends regarding the adoption of game-based methodologies in programming education.
+- Identify trends regarding the adoption of game-based methodologies in computational thinking education.
 
-- Evaluate the learning process of students at the initial stages of programming using strategies from the Game-Based Learning methodology.
+- Evaluate the development of computational thinking skills in students using strategies from the Game-Based Learning methodology.
 
-- Collect information from students in the early stages of programming regarding the use of game-based approaches.
+- Collect information from students regarding their experiences with game-based approaches to learning computational thinking
 
-- Assess the benefits and challenges involved in applying game-based methodologies to the teaching of programming.
+- Assess the benefits and challenges involved in applying game-based methodologies to the teaching of computational thinking.
+
+The specific objectives are directly aligned with the general objective, as they break down the broader goal into concrete investigative steps. By identifying current game-based approaches and trends, the study builds a foundation for understanding the context in which Game-Based Learning is applied. Evaluating student development and gathering their feedback provides insights into how these methodologies impact the learning of computational thinking. Finally, by assessing both benefits and challenges, the work aims to critically analyze the practical implications of implementing Game-Based Learning in this educational context.
 
 ---
 
@@ -40,7 +42,12 @@ The general objective of this work is to study the influence of pedagogical appr
   [X] Partially  
   [ ] No
 
-Our research includes an experimental phase conducted with students from a high school institution in São Paulo, where the study is being carried out. According to the initially established roadmap, the first module of this project would involve selecting the educational institution where the study would take place, as well as recruiting volunteer students willing to participate. However, the authors are currently still in the process of negotiating with the institution that best meets the established requirements. Thus, it is understood that the authors have partially met the proposed timeline for the first ten weeks of project development, given that other planned stages — such as the literature review, the writing of the introduction, and the preparation of an initial lesson plan for the proposed experimental phase — have been completed.
+Our research is structured as an experience report and, as such, required adjustments to the initial planning during the execution of the experiment. During the first module, the authors initiated negotiations with a public high school institution in the city of São Paulo. However, this partnership did not materialize, which resulted in delays in carrying out the activities planned for the second module.
+
+Given the authors’ intention to carry out the experiment by the end of the second module, a detailed timeline was developed and a registration form was made available for workshop participants. However, the number of applicants was insufficient to proceed with the activity, leading to the postponement of the experimental phase to the third module.
+
+Despite the challenges faced, significant progress was made in the development of the methodological framework, the creation of an action plan for the events, and the structuring of a robust teaching plan. The online classroom has already been set up, and the teaching materials have been prepared and properly grounded. Therefore, it is considered that the project is partially aligned with the initially proposed timeline.
+
 
 ---
 
@@ -56,25 +63,34 @@ In preparation for the lesson plan to be implemented with the volunteer students
 
 Weekly meetings have been held to present the research progress and to define the next steps of the project.
 
+During the second module, the initially planned activities had to be reviewed and reformulated, since they were contingent on a partnership with an institution that did not materialize. During this period, the Introduction and Methodology sections of the article were rewritten to detail the bibliographic survey and article analysis process, as well as to clarify the course design, implementation, and data collection, without linking to any specific institution.
+
+Additionally, a mapping of related high schools was carried out to establish new contacts. The teaching plan was finalized, enhancing the relationship between content and lessons, including activities planned for asynchronous moments. Also in this module, an action plan for the experiment was developed, detailing all steps for its execution, including dissemination strategies, participant selection, and specifications of synchronous and asynchronous models to be adopted.
+
+Infrastructure planning for the event was also conducted: contacts were made with the venue, dates and times were scheduled, and equipment management teams (such as laptops and projectors) were contacted to ensure the event runs smoothly. Although the registration form was released and initial marketing actions were undertaken, due to short notice and low participation, these efforts were suspended. Currently, these actions are being resumed with a new date planned for the experiment.
+
 ---
 
 ## 4. Obstacles and Challenges
 
-A significant obstacle currently faced by the authors concerns obtaining authorization for the proposed experimentation, as it must be carried out with the support of an educational institution that can enable the implementation of the educational workshops. At present, the researchers are in the negotiation phase with the school they consider most appropriate for conducting the study. However, there is a possibility that the negotiation may not be successful, which would require seeking another institution for the application of the Game-Based Learning methodology. It is believed that, at this stage, this limitation represents the only major concern regarding the progress of the research, as adjustments to the initially proposed timeline may become necessary.
+In the first module, a significant obstacle faced by the authors was obtaining authorization for the proposed experimentation, as it depended on the support of an educational institution that would enable the implementation of the pedagogical workshops. During this period, the researchers were in negotiations with the school considered most suitable for conducting the study. However, there is a possibility that the negotiation may not be successful, which would require seeking another institution for the application of the Game-Based Learning methodology. This limitation currently represents the main concern regarding the progress of the research and may necessitate adjustments to the initially proposed timeline.
+
+In the second module, a new obstacle emerged related to the difficulty in reaching the target audience for registration dissemination, since both authors lack familiarity and established connections with this group. To overcome this barrier, a marketing strategy revision plan was developed, including new approaches for contacting educational institutions that, so far, have shown promising potential to facilitate dissemination and participant recruitment.
+
 
 ---
 
 ## 5. Future Developments
 
-At the beginning of the second module of the project, the goal is to finalize negotiations with the selected school for the implementation of the proposed methodology. This will make it possible to schedule the study and begin the process of recruiting student volunteers. If conducting the study at the selected school proves unfeasible, another educational institution will be identified so that the research can proceed, with the tasks outlined in the project roadmap being postponed to a date slightly later than initially planned.
-
-In addition, the authors intend to continue writing the article, dedicating more time to refining the methodology section to ensure that the text becomes complete and cohesive. The lesson plan will also be revised, as the selection of educational software in game format for use in the learning process is still under evaluation. Weekly meetings with the project’s faculty advisor will continue, ensuring consistent updates on the project’s progress and allowing for the reception of guidance and suggestions for the next steps of the research.
+For the third module, the authors aim to effectively carry out the experiment, including the application of a diagnostic assessment, practical classes, activities, and a final exam. Subsequently, they plan to conduct the data collection and processing, as well as initiate descriptive statistics, comparative analysis, and content analysis of the results.
 
 ---
 
 ## 6. Conclusion and Final Reflections
 
-During the first module of the project, the students were able to significantly deepen their understanding of the topic chosen for the development of their final course project. They acquired new knowledge regarding the execution of research involving experimental procedures, as well as developed skills in academic writing. Initially, the authors outlined the purpose of applying the Game-Based Learning methodology within the context of introductory programming education and presented a methodological proposal to be implemented in the following module. The researchers believe that the study has strong potential to yield meaningful results with regard to advances in education in Brazil — particularly in terms of promoting knowledge about computational thinking.
+During the first module of the project, the students were able to significantly deepen their understanding of the topic chosen for the development of their final course project. They acquired new knowledge related to conducting research involving experimental procedures, as well as developing skills in academic writing. The authors outlined the purpose of applying the Game-Based Learning methodology in the context of teaching computational thinking and presented a methodological proposal to be implemented in the following module.
+
+In the second module, despite the delays faced, the period was extremely rich for the development of the work, mainly due to the theoretical deepening carried out for the application of the methodology. Progress in negotiations and communications established with institutions also provided the students with the development of interpersonal skills, thus going beyond the writing of the article. The researchers remain confident that the study has great potential to generate significant results regarding advances in education in Brazil — especially in promoting knowledge about computational thinking.
 
 ---
 
