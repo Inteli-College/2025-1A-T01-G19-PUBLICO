@@ -38,16 +38,13 @@ The specific objectives are directly aligned with the general objective, as they
 ## 2. Alignment with Proposed Schedule
 
 - **Was the research process aligned with the initial schedule?**  
-  [ ] Yes  
-  [X] Partially  
+  [X] Yes  
+  [ ] Partially  
   [ ] No
 
-Our research is structured as an experience report and, as such, required adjustments to the initial planning during the execution of the experiment. During the first module, the authors initiated negotiations with a public high school institution in the city of São Paulo. However, this partnership did not materialize, which resulted in delays in carrying out the activities planned for the second module.
+The initial schedule for the current module was successfully maintained. The obstacles identified in previous phases — namely, the unsuccessful negotiation of a partnership with an educational institution for the workshop, and the subsequent decision to open it to a broader public — were effectively overcome. The authors successfully established a partnership with the Eurofarma Institute, a social institution dedicated to serving high school students from public schools and providing professional training.
 
-Given the authors’ intention to carry out the experiment by the end of the second module, a detailed timeline was developed and a registration form was made available for workshop participants. However, the number of applicants was insufficient to proceed with the activity, leading to the postponement of the experimental phase to the third module.
-
-Despite the challenges faced, significant progress was made in the development of the methodological framework, the creation of an action plan for the events, and the structuring of a robust teaching plan. The online classroom has already been set up, and the teaching materials have been prepared and properly grounded. Therefore, it is considered that the project is partially aligned with the initially proposed timeline.
-
+The workshop was successfully executed in September 2025, precisely as planned at the module's outset. This success provides concrete and robust experience that will be reported in this research article.
 
 ---
 
@@ -67,7 +64,15 @@ During the second module, the initially planned activities had to be reviewed an
 
 Additionally, a mapping of related high schools was carried out to establish new contacts. The teaching plan was finalized, enhancing the relationship between content and lessons, including activities planned for asynchronous moments. Also in this module, an action plan for the experiment was developed, detailing all steps for its execution, including dissemination strategies, participant selection, and specifications of synchronous and asynchronous models to be adopted.
 
-Infrastructure planning for the event was also conducted: contacts were made with the venue, dates and times were scheduled, and equipment management teams (such as laptops and projectors) were contacted to ensure the event runs smoothly. Although the registration form was released and initial marketing actions were undertaken, due to short notice and low participation, these efforts were suspended. Currently, these actions are being resumed with a new date planned for the experiment.
+Infrastructure planning for the event was also conducted: contacts were made with the venue, dates and times were scheduled, and equipment management teams (such as laptops and projectors) were contacted to ensure the event runs smoothly. Although the registration form was released and initial marketing actions were undertaken, due to short notice and low participation, these efforts were suspended.
+
+The academic recess between the second and third modules was dedicated to resolving the previously reported challenge: the authors initiated negotiations with the Eurofarma Institute, whose student demographic perfectly aligns with that of this research. The successful partnership led to the establishment of September 13 and September 20, 2025 — two Saturdays, as initially planned by the authors—as the dates for the Game Changers Workshop, to be held at the institute's headquarters.
+
+The Institute's coordination was instrumental in managing workshop registrations. The initiative was promoted among the students, and registrations remained open for one week. In the subsequent week, a communication channel was created, and the students were added to a dedicated Google Classroom to access the asynchronous activities and begin their preliminary studies in Computational Thinking.
+
+The workshop was conducted successfully on the stipulated dates. All registered students attended both days of class, resulting in a 100% attendance rate. All proposed classroom dynamics, synchronous activities, assessments, and feedback sessions demonstrated significant student participation and engagement. This high level of involvement generated the necessary input for the researchers to conduct a robust data analysis and achieve satisfactory preliminary results.
+
+The authors of this research conclude the third module of the project by analyzing the results obtained from the workshop and proposing discussions regarding the reported experience.
 
 ---
 
@@ -77,12 +82,15 @@ In the first module, a significant obstacle faced by the authors was obtaining a
 
 In the second module, a new obstacle emerged related to the difficulty in reaching the target audience for registration dissemination, since both authors lack familiarity and established connections with this group. To overcome this barrier, a marketing strategy revision plan was developed, including new approaches for contacting educational institutions that, so far, have shown promising potential to facilitate dissemination and participant recruitment.
 
+The third module of the project yielded positive outcomes regarding all previously presented challenges. However, a few obstacles emerged during the execution of the Game Changers Workshop. Primarily, the number of students present in the classroom exceeded the number of students registered. This occurred because some students attending their respective courses at the Eurofarma Institute did not form a sufficient quorum for their scheduled classes and, moreover, expressed interest in participating in the workshop. Consequently, 23 students were allocated to the class, which demanded logistical improvisation during the session.
+
+In addition to this mentioned obstacle, the second workshop session presented a further challenge: the poor quality of the institution's network connection at the day rendered one of the planned in-class activities unfeasible. This activity involved the use of a game designed to teach Computational Thinking. To circumvent this issue, the authors quickly adapted by displaying the game from a single computer via the classroom projector. Students were then encouraged to interact and collaboratively complete the game stages while the actions were executed by one of the researchers. Apart from the aspects mentioned, there were no major impediments concerning the execution of the workshop.
 
 ---
 
 ## 5. Future Developments
 
-For the third module, the authors aim to effectively carry out the experiment, including the application of a diagnostic assessment, practical classes, activities, and a final exam. Subsequently, they plan to conduct the data collection and processing, as well as initiate descriptive statistics, comparative analysis, and content analysis of the results.
+For the fourth and final module of this project, the authors intend to conduct a refinement and revision phase of the written article. It will be adjusted in full compliance with all parameters required by the target scientific journal to which the authors plan to submit the research. Furthermore, the project will be presented to an evaluation committee, and the final project documentation will be submitted.
 
 ---
 
@@ -90,7 +98,9 @@ For the third module, the authors aim to effectively carry out the experiment, i
 
 During the first module of the project, the students were able to significantly deepen their understanding of the topic chosen for the development of their final course project. They acquired new knowledge related to conducting research involving experimental procedures, as well as developing skills in academic writing. The authors outlined the purpose of applying the Game-Based Learning methodology in the context of teaching computational thinking and presented a methodological proposal to be implemented in the following module.
 
-In the second module, despite the delays faced, the period was extremely rich for the development of the work, mainly due to the theoretical deepening carried out for the application of the methodology. Progress in negotiations and communications established with institutions also provided the students with the development of interpersonal skills, thus going beyond the writing of the article. The researchers remain confident that the study has great potential to generate significant results regarding advances in education in Brazil — especially in promoting knowledge about computational thinking.
+In the second module, despite the delays faced, the period was extremely rich for the development of the work, mainly due to the theoretical deepening carried out for the application of the methodology. Progress in negotiations and communications established with institutions also provided the students with the development of interpersonal skills, thus going beyond the writing of the article. The researchers remain confident that the study has great potential to generate significant results regarding advances in education in Brazil — especially in promoting knowledge about Computational Thinking.
+
+The third module of the project was particularly significant for the research authors, as it was the period during which the workshop was finally conducted, following the successful overcoming of all previous obstacles. The authors gained direct experience in teaching Computational Thinking to high school students and, for the first time, acquired practical knowledge regarding classroom instruction. Moreover, observing the participants' high engagement in both synchronous and asynchronous activities, and receiving positive feedback, reinforced the premise under evaluation by the researchers. They now possess significant input to proceed to the final stage of this study.
 
 ---
 
