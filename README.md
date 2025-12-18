@@ -7,7 +7,7 @@
 > **Supervisor:** Julia Stateri  
 > **Course/Institution:** Software Engineering and Computer Engineering, Instituto de Tecnologia e Liderança
 > 
-> **Date:** June 26th, 2025
+> **Date:** December 18th, 2025
 
 ---
 
@@ -74,6 +74,11 @@ The workshop was conducted successfully on the stipulated dates. All registered 
 
 The authors of this research conclude the third module of the project by analyzing the results obtained from the workshop and proposing discussions regarding the reported experience.
 
+The first step of the fourth module consisted of processing, cleaning, and analyzing the qualitative and quantitative data collected during the workshop, including students’ scores from the diagnostic and final assessments, data obtained from feedback forms, and the completion of asynchronous activities. After the analysis, the data were organized and represented through graphs and tables, and the previously reviewed literature was revisited to support the writing of the results, discussion, and conclusion sections. Additionally, the methodological section was enriched by incorporating students’ drawings and an account of the experience carried out during the intervention.
+
+Finally, the authors refined the manuscript as a whole, prepared a presentation for the evaluation committee, and submitted the paper to the selected journal.
+
+
 ---
 
 ## 4. Obstacles and Challenges
@@ -86,21 +91,19 @@ The third module of the project yielded positive outcomes regarding all previous
 
 In addition to this mentioned obstacle, the second workshop session presented a further challenge: the poor quality of the institution's network connection at the day rendered one of the planned in-class activities unfeasible. This activity involved the use of a game designed to teach Computational Thinking. To circumvent this issue, the authors quickly adapted by displaying the game from a single computer via the classroom projector. Students were then encouraged to interact and collaboratively complete the game stages while the actions were executed by one of the researchers. Apart from the aspects mentioned, there were no major impediments concerning the execution of the workshop.
 
----
-
-## 5. Future Developments
-
-For the fourth and final module of this project, the authors intend to conduct a refinement and revision phase of the written article. It will be adjusted in full compliance with all parameters required by the target scientific journal to which the authors plan to submit the research. Furthermore, the project will be presented to an evaluation committee, and the final project documentation will be submitted.
+In the fourth module, which focused on data processing, data analysis, and the conclusion of the article, one of the main challenges encountered was the categorization of data of a nature different from what had initially been expected. When students were asked to provide negative feedback about the workshop, many responses were paradoxical in nature, such as “none” or “there is none,” which hindered the categorization process. To address this limitation, the authors employed Content Analysis as proposed by Bardin (1977), enabling the construction of thematic categories suitable for the interpretation of the collected data.
 
 ---
 
-## 6. Conclusion and Final Reflections
+## 5. Conclusion and Final Reflections
 
 During the first module of the project, the students were able to significantly deepen their understanding of the topic chosen for the development of their final course project. They acquired new knowledge related to conducting research involving experimental procedures, as well as developing skills in academic writing. The authors outlined the purpose of applying the Game-Based Learning methodology in the context of teaching computational thinking and presented a methodological proposal to be implemented in the following module.
 
 In the second module, despite the delays faced, the period was extremely rich for the development of the work, mainly due to the theoretical deepening carried out for the application of the methodology. Progress in negotiations and communications established with institutions also provided the students with the development of interpersonal skills, thus going beyond the writing of the article. The researchers remain confident that the study has great potential to generate significant results regarding advances in education in Brazil — especially in promoting knowledge about Computational Thinking.
 
 The third module of the project was particularly significant for the research authors, as it was the period during which the workshop was finally conducted, following the successful overcoming of all previous obstacles. The authors gained direct experience in teaching Computational Thinking to high school students and, for the first time, acquired practical knowledge regarding classroom instruction. Moreover, observing the participants' high engagement in both synchronous and asynchronous activities, and receiving positive feedback, reinforced the premise under evaluation by the researchers. They now possess significant input to proceed to the final stage of this study.
+
+The fourth module encompassed the stages of data cleaning, processing, classification, and analysis of the data collected during the workshop period. In addition, the results, discussion, and conclusion sections of the article were written, along with a comprehensive refinement of the manuscript. The authors also revisited the literature in order to contextualize, interpret, and assess the research outcomes, culminating in the submission of the paper to the selected journal. Ultimately, the research question — “Can the use of digital games contribute to motivation, engagement, and the understanding of the fundamental concepts of Computational Thinking?” — was answered positively, based on the significant improvements observed among students after the workshop, as well as on responses to engagement assessment instruments, which demonstrated the effectiveness of the adopted approach.
 
 ---
 
